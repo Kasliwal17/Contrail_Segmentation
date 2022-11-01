@@ -1,1 +1,8 @@
-
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+authors:
+  - family-names: Kasliwal
+    given-names: Aditya
+title: "Performance evaluation of deep segmentation models on Landsat-8 imagery"
+version: 1.0
+date-released: 2022-11-01
